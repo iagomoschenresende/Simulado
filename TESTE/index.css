@@ -1,0 +1,44 @@
+header{
+    text-align: center;
+    border-color: black;
+    background-color: aqua;
+    
+}
+
+*{margin: 0%;}
+
+main{
+    text-align: center;
+    margin-top: 10px;
+    background-color: aqua;
+    
+}
+
+nav{
+    text-align: center;
+    margin-top: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+    
+
+}
+h1{background-color: antiquewhite;
+    
+
+}
+nav iframe{
+    width: 40%;
+    height: 506px;
+}
+footer ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: antiquewhite;
+    font-size: larger;
+
+}
+body{
+    background-color: aqua;
+}
+
